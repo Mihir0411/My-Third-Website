@@ -1,0 +1,53 @@
+*{
+    background-color: cadetblue;
+    margin-top: 0%;
+}
+img{
+    width: 50%;
+    
+    
+    
+}
+ p{
+    color: darkorchid;
+   font-size: 25px;
+   border: solid black;
+   width: 30%;
+   height: 25%;
+   border-radius: 10px;
+   padding: 10px;
+   font-family: Arial, Helvetica, sans-serif;
+   text-align: justify;
+
+
+}
+
+
+.arham{
+    float: right;
+    margin-top: 0%;
+
+    
+}
+h3{
+    margin-top: 30px;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    font-size: 30px;
+}
+span{
+    color: blanchedalmond;
+}
+.blog p{
+    border: double black;
+    width: 30%;
+    height: 35%;
+    border-radius: 10px;
+    text-align: justify;
+}
+a{
+  background-color: blanchedalmond;
+  width: 45px;
+  font-size: 25px;
+}
